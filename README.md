@@ -11,3 +11,4 @@ Thank you for your interest in our work.
 
 
 # License
+MIT License — free to use, modify, and distribute.
