@@ -18,6 +18,9 @@ Thank you for your interest in our work.
 * **Lamia BENLALDJ** - *University Abou-bakr Belkaid, Tlemcen, Algeria* 
 
 
+# Architecture of the proposed model (CNN-BiLSTM-SNR)
+<img width="1474" height="704" alt="CNNBiLSTMwithSNR" src="https://github.com/user-attachments/assets/01b88a96-a105-4de6-a48f-8d8145cb8619" />
+
 # Project Structure
 
 
