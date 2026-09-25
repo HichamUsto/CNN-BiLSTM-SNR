@@ -8,6 +8,16 @@ The full PyTorch source code, including the model architecture, training pipelin
 
 Thank you for your interest in our work.
 
+## Authors
+
+* **Sihem SOUIKI** - *University of Ain-Temouchent, Ain-Temouchent, Algeria*
+* **Mohammed Hicham HACHEMI** - *University of Science and Technology of Oran-Mohamed Boudiaf (USTO-MB), Oran, Algeria* 
+* **Mohammed MERZOUG** - *University Abou-bakr Belkaid, Tlemcen, Algeria* 
+* **Mourad HADJILA** - *University Abou-bakr Belkaid, Tlemcen, Algeria*  
+* **Mohammed M’HAMEDI** - *Ecole Supérieure en Sciences Appliquées de Tlemcen (ESSAT), Tlemcen, Algeria* 
+* **Lamia BENLALDJ** - *University Abou-bakr Belkaid, Tlemcen, Algeria* 
+
+
 # Project Structure
 
 
