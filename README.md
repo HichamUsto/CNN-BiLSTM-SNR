@@ -25,14 +25,16 @@ Thank you for your interest in our work.
 
 
 # Project Structure for "Modulation_signals_SNR_6dB.ipynb" 
+```text
 │
 ├── Modulation_signals_SNR_6dB.ipynb   # Main notebook 
 │
 └── outputs/
     └── Figure_2.png                   # Generated accuracy curves chart (Train/Val Accuracy)
+```
 
-
-# Project Structure for "CNN_+_BiLSTM_+_separate_SNR_PyTorch_OHE_pkl.ipynb" 
+# Project Structure for "CNN_+_BiLSTM_+_separate_SNR_PyTorch_OHE_pkl.ipynb"
+```text
 │
 ├── Go to "2. Load RadioML2016.10a pickle dataset" to select your dataset path  
 │   └── PKL_PATH = ./XXX/XXX/RML2016.10a_dict.pkl       # RadioML2016.10a dataset file 
@@ -46,9 +48,10 @@ Thank you for your interest in our work.
     ├── Figure_5.png                                    # Generated Confusion Matrices at Selected SNRs
     ├── Figure_6.png                                    # Generated Global Confusion Matrice
     └── Figure_7.png                                    # Generated model’s performance metrics (acc., prec., recall, and F1-score) across a range of SNR
+```
 
-
-# Project Structure for "CNN_+_BiLSTM_+_separate_SNR_PyTorch_OHE_dat_10b.ipynb" 
+# Project Structure for "CNN_+_BiLSTM_+_separate_SNR_PyTorch_OHE_dat_10b.ipynb"
+```text
 │
 ├── Same thing. Go to "2. Load RadioML2016.10b dataset" to select your dataset path  
 │   └── PKL_PATH = ./XXX/XXX/RML2016-10b.dat                # RadioML2016.10b dataset file 
@@ -62,7 +65,7 @@ Thank you for your interest in our work.
    ├── Figure_10.png                                        # Generated Confusion Matrices at Selected SNRs
    ├── Figure_11.png                                        # Generated Global Confusion Matrice
    └── Figure_12.png                                        # Generated model’s performance metrics (acc., prec., recall, and F1-score) across a range of SNR
-
+```
 
 # License
 MIT License — free to use, modify, and distribute.
