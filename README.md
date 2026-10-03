@@ -6,8 +6,6 @@ This repository is the official implementation of the paper:
 
 **DOI: XXXXXXXX**
 
-The full source code, including the model architecture, training pipeline, and evaluation scripts, will be uploaded here immediately following the formal publication of the paper.
-
 Thank you for your interest in our work.
 
 ## Authors
